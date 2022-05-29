@@ -140,6 +140,7 @@
                         <outlet property="contentsTextView" destination="0Qp-ch-5kv" id="D5x-g9-F7q"/>
                         <outlet property="datePicker" destination="GZx-oI-70d" id="fGy-bW-56b"/>
                         <outlet property="titelTextField" destination="Zo7-BE-goy" id="OwG-M1-A8h"/>
+                        <outlet property="titleTextField" destination="Zo7-BE-goy" id="CM9-kj-DO6"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Nnr-l5-Zgp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
